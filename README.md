@@ -1,4 +1,4 @@
-# Reproducibility bundle — "Does SSRI treatment of OCD cross a fold?"
+# Reproducibility bundle — "SSRI treatment of obsessive-compulsive disorder as motion across a bistable fold"
 
 This bundle regenerates the calibration, analyses, and figures of the manuscript. All code is Python.
 
@@ -52,11 +52,11 @@ Random seeds are set inside the stochastic scripts (e.g. `graded_vs_fold_detecta
 `np.random.default_rng(11)`; the cohort simulations use fixed seeds) so results are deterministic.
 
 ## Notes / caveats (as stated in the manuscript)
-- Some digitized points were pending source-PDF verification at submission; see the manuscript's data-availability
-  statement. The `role` column marks fitted vs held-out arms.
+- Load-bearing endpoints were cross-checked against the source trials by independent re-extraction (see the
+  manuscript's data-availability statement). The `role` column marks fitted vs held-out arms.
 - The bimodality/variability-ratio discriminator is demonstrated here on **model-simulated cohorts**
   (`graded_vs_fold_detectability.py`); it is a prospective prediction, not run on patient data.
 
 ## Status
-Staged for deposit. Before public release: (1) finalize source-verification of the digitized points;
-(2) choose hosting (a private reviewer link during review + a Zenodo DOI on acceptance is standard for NC).
+Public release accompanying the submitted manuscript. A version-tagged Zenodo archive (citable DOI) will be
+minted on acceptance.
