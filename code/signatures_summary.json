@@ -1,0 +1,20 @@
+{
+  "fold_chi2": 6.269,
+  "graded_chi2": 7.396,
+  "fold_nparam": 4,
+  "graded_nparam": 1,
+  "AIC_fold": 14.269,
+  "AIC_graded": 9.396,
+  "A_fold_jump": 13.236309065568665,
+  "A_u_fold": 0.8111764705882352,
+  "B_fold_offdrug_Y": 8.7589149275416e-05,
+  "B_graded_offdrug_Y": 20.00000024773556,
+  "C_u_clin": 0.8,
+  "C_remit_fold": 22.35,
+  "C_remit_grad": 7.225,
+  "C_BC_fold": 0.6295382609740288,
+  "C_BC_grad": 0.3564774053158702,
+  "C_VR_fold": 1.981373366778002,
+  "C_VR_grad": 0.9522615431315727,
+  "C_n_excl": 0
+}

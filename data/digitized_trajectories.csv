@@ -1,0 +1,107 @@
+drug,trial,dose_mg,Y0_mean,Y0_sd,week,net_dYBOCS,SE,role
+FLX,Tollefson 1994,20,23.6,5.5,1,0.3,0.63,fit
+FLX,Tollefson 1994,20,23.6,5.5,3,0.6,0.69,fit
+FLX,Tollefson 1994,20,23.6,5.5,5,2.5,0.75,fit
+FLX,Tollefson 1994,20,23.6,5.5,7,1.9,0.8,fit
+FLX,Tollefson 1994,20,23.6,5.5,9,2.7,0.89,fit
+FLX,Tollefson 1994,20,23.6,5.5,11,3.9,0.94,fit
+FLX,Tollefson 1994,20,23.6,5.5,13,4.0,0.96,fit
+FLX,Tollefson 1994,40,23.5,5.5,1,-0.2,0.65,fit
+FLX,Tollefson 1994,40,23.5,5.5,3,0.6,0.77,fit
+FLX,Tollefson 1994,40,23.5,5.5,5,3.1,0.81,fit
+FLX,Tollefson 1994,40,23.5,5.5,7,3.5,0.81,fit
+FLX,Tollefson 1994,40,23.5,5.5,9,4.0,0.93,fit
+FLX,Tollefson 1994,40,23.5,5.5,11,4.3,0.92,fit
+FLX,Tollefson 1994,40,23.5,5.5,13,4.7,0.97,fit
+FLX,Tollefson 1994,60,24.4,5.5,1,0.7,0.59,fit
+FLX,Tollefson 1994,60,24.4,5.5,3,1.1,0.68,fit
+FLX,Tollefson 1994,60,24.4,5.5,5,4.0,0.74,fit
+FLX,Tollefson 1994,60,24.4,5.5,7,4.8,0.81,fit
+FLX,Tollefson 1994,60,24.4,5.5,9,5.8,0.83,fit
+FLX,Tollefson 1994,60,24.4,5.5,11,7.2,0.87,fit
+FLX,Tollefson 1994,60,24.4,5.5,13,6.9,0.95,fit
+CIT,Montgomery 2001,20,25.4,3.9,1,0.7,1.5,fit
+CIT,Montgomery 2001,20,25.4,3.9,3,1.2,1.5,fit
+CIT,Montgomery 2001,20,25.4,3.9,5,2.1,1.5,fit
+CIT,Montgomery 2001,20,25.4,3.9,7,2.6,1.5,fit
+CIT,Montgomery 2001,20,25.4,3.9,9,2.7,1.5,fit
+CIT,Montgomery 2001,20,25.4,3.9,12,2.8,1.5,fit
+CIT,Montgomery 2001,40,25.4,3.9,1,1.0,1.5,fit
+CIT,Montgomery 2001,40,25.4,3.9,3,1.7,1.5,fit
+CIT,Montgomery 2001,40,25.4,3.9,5,2.8,1.5,fit
+CIT,Montgomery 2001,40,25.4,3.9,7,3.3,1.5,fit
+CIT,Montgomery 2001,40,25.4,3.9,9,3.3,1.5,fit
+CIT,Montgomery 2001,40,25.4,3.9,12,3.3,1.5,fit
+CIT,Montgomery 2001,60,25.4,3.9,1,1.5,1.5,fit
+CIT,Montgomery 2001,60,25.4,3.9,3,2.7,1.5,fit
+CIT,Montgomery 2001,60,25.4,3.9,5,3.8,1.5,fit
+CIT,Montgomery 2001,60,25.4,3.9,7,4.8,1.5,fit
+CIT,Montgomery 2001,60,25.4,3.9,9,4.9,1.5,fit
+CIT,Montgomery 2001,60,25.4,3.9,12,4.8,1.5,fit
+ESC,Stein 2007,10,27.0,5.0,1,-0.45,0.4,fit
+ESC,Stein 2007,10,27.0,5.0,2,-0.2,0.58,fit
+ESC,Stein 2007,10,27.0,5.0,4,0.56,0.75,fit
+ESC,Stein 2007,10,27.0,5.0,6,0.58,0.87,fit
+ESC,Stein 2007,10,27.0,5.0,8,1.28,0.95,fit
+ESC,Stein 2007,10,27.0,5.0,10,2.0,1.03,fit
+ESC,Stein 2007,10,27.0,5.0,12,2.97,1.09,fit
+ESC,Stein 2007,10,27.0,5.0,16,3.18,1.22,fit
+ESC,Stein 2007,10,27.0,5.0,20,2.31,1.36,fit
+ESC,Stein 2007,10,27.0,5.0,24,3.1,1.48,fit
+ESC,Stein 2007,20,27.0,5.0,1,-0.08,0.4,fit
+ESC,Stein 2007,20,27.0,5.0,2,0.58,0.59,fit
+ESC,Stein 2007,20,27.0,5.0,4,1.44,0.73,fit
+ESC,Stein 2007,20,27.0,5.0,6,1.97,0.87,fit
+ESC,Stein 2007,20,27.0,5.0,8,2.34,0.95,fit
+ESC,Stein 2007,20,27.0,5.0,10,2.61,1.03,fit
+ESC,Stein 2007,20,27.0,5.0,12,3.68,1.08,fit
+ESC,Stein 2007,20,27.0,5.0,16,3.67,1.2,fit
+ESC,Stein 2007,20,27.0,5.0,20,3.32,1.34,fit
+ESC,Stein 2007,20,27.0,5.0,24,3.12,1.44,fit
+PAR,Stein 2007,40,27.0,5.0,1,-0.01,0.4,fit
+PAR,Stein 2007,40,27.0,5.0,2,0.48,0.58,fit
+PAR,Stein 2007,40,27.0,5.0,4,1.66,0.73,fit
+PAR,Stein 2007,40,27.0,5.0,6,2.48,0.87,fit
+PAR,Stein 2007,40,27.0,5.0,8,2.52,0.95,fit
+PAR,Stein 2007,40,27.0,5.0,10,1.97,1.03,fit
+PAR,Stein 2007,40,27.0,5.0,12,3.21,1.09,fit
+PAR,Stein 2007,40,27.0,5.0,16,4.12,1.22,fit
+PAR,Stein 2007,40,27.0,5.0,20,3.35,1.34,fit
+PAR,Stein 2007,40,27.0,5.0,24,4.24,1.46,fit
+PAR,Zohar & Judge 1996,37.5,25.5,4.0,2,1.5,0.98,fit
+PAR,Zohar & Judge 1996,37.5,25.5,4.0,4,2.0,0.98,fit
+PAR,Zohar & Judge 1996,37.5,25.5,4.0,6,3.0,0.98,fit
+PAR,Zohar & Judge 1996,37.5,25.5,4.0,8,3.5,0.98,fit
+PAR,Zohar & Judge 1996,37.5,25.5,4.0,10,4.0,0.98,fit
+PAR,Zohar & Judge 1996,37.5,25.5,4.0,12,3.0,0.98,fit
+SRT,Greist 1995,100,23.8,5.3,1,0.6,1.1,fit
+SRT,Greist 1995,100,23.8,5.3,2,0.9,1.1,fit
+SRT,Greist 1995,100,23.8,5.3,4,1.4,1.1,fit
+SRT,Greist 1995,100,23.8,5.3,6,1.7,1.0,fit
+SRT,Greist 1995,100,23.8,5.3,8,1.9,1.0,fit
+SRT,Greist 1995,100,23.8,5.3,10,2.05,0.9,fit
+SRT,Greist 1995,100,23.8,5.3,12,2.16,0.8,fit
+PAR,Kamijima 2004,20->40,24.3,4.5,1,0.6,1.1,fit
+PAR,Kamijima 2004,20->40,24.3,4.5,2,1.5,1.1,fit
+PAR,Kamijima 2004,20->40,24.3,4.5,4,2.9,1.1,fit
+PAR,Kamijima 2004,20->40,24.3,4.5,6,4.12,1.0,fit
+PAR,Kamijima 2004,20->40,24.3,4.5,8,4.35,1.0,fit
+PAR,Kamijima 2004,20->40,24.3,4.5,10,4.5,1.0,fit
+PAR,Kamijima 2004,20->40,24.3,4.5,12,4.65,1.0,fit
+FLV,Hollander 2003b,200,26.6,5.0,12,2.9,1.0,fit
+CMI,Greist 1995,226,26.2,5.2,1,0.5,1.0,heldout
+CMI,Greist 1995,226,26.2,5.2,2,1.5,1.0,heldout
+CMI,Greist 1995,226,26.2,5.2,3,2.5,1.0,heldout
+CMI,Greist 1995,226,26.2,5.2,4,3.8,1.0,heldout
+CMI,Greist 1995,226,26.2,5.2,5,5.0,1.0,heldout
+CMI,Greist 1995,226,26.2,5.2,6,6.5,1.0,heldout
+CMI,Greist 1995,226,26.2,5.2,7,7.5,1.0,heldout
+CMI,Greist 1995,226,26.2,5.2,8,8.5,1.0,heldout
+CMI,Greist 1995,226,26.2,5.2,9,9.5,1.0,heldout
+CMI,Greist 1995,226,26.2,5.2,10,10.0,1.0,heldout
+CMI,Zohar & Judge 1996,113,25.5,4.0,2,2.0,1.16,heldout
+CMI,Zohar & Judge 1996,113,25.5,4.0,4,3.0,1.16,heldout
+CMI,Zohar & Judge 1996,113,25.5,4.0,6,3.5,1.16,heldout
+CMI,Zohar & Judge 1996,113,25.5,4.0,8,4.0,1.16,heldout
+CMI,Zohar & Judge 1996,113,25.5,4.0,10,4.0,1.16,heldout
+CMI,Zohar & Judge 1996,113,25.5,4.0,12,3.0,1.16,heldout

@@ -1,0 +1,23 @@
+{
+  "tau_G": 12.0,
+  "b": 0.0268,
+  "b_ci": [
+    0.016,
+    0.036
+  ],
+  "kappa_des": 0.108,
+  "kappa_des_ci": [
+    0.05,
+    0.55
+  ],
+  "gamma": 2,
+  "theta_M": 9.15,
+  "h_max": 2.0,
+  "eC_h": 2.8,
+  "rms": 0.828,
+  "N": 84,
+  "ESC_D50": 1.7,
+  "FLV_D50": 50,
+  "source": "baseline-referenced BCM, normalized form; ESC D50=1.7 (Baldinger/Klein PET), FLV D50=50 (Takano)",
+  "_framing_note": "CANONICAL normalized plasticity: tau_G*dG/dt = alpha*phi_e*(phid1-phih)(phid1-thetaM)(phisat-phid1) - (1 + b(eC-eC_h))*G. tau_G=12 wk PINNED (approx trial duration; weakly id. [8,15]). Constitutive decay normalized to 1 (rate 1/tau_G). Drug = fractional modification b(eC-eC_h)~0.08 clinically. NO kappa_h. Fit (2026-07-14 clean-form recalibration): b=0.0268 nM^-1, kappa_des=0.108, RMS 0.828. b,kappa_des sloppy/correlated, outputs stiff."
+}
